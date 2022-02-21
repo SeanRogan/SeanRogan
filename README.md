@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanRogan
-- 👀 I’m interested in full stack web development, android app development, 
-- 🌱 I’m currently learning ...Java, Springboot, SQL, and learning the finer points of SaSS/CSS, and HTML5.
+- 👀 I’m interested in full stack web development, especially Java.
+- 🌱 I’m currently learning ...Java, Springboot, SQL/MySQL, and learning the finer points of CSS, and HTML5.
 - 💞️ I’m looking to collaborate on any projects where i can learn new things!
 - 📫 How to reach me; Srogan88@gmail.com - put "GitHubCollab" in the subject line so i know to open it.
 
