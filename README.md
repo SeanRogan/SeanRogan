@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeanRogan
-- 👀 I’m interested in web development, creating REST APIs and back end development, especially with Java.
+- 👀 I’m interested in web scraping, data mining and analysis, creating REST APIs and back end development, especially with Java.
 - 🌱 I’m currently learning ...Java, Springboot, SQL/MySQL/PostgreSQL, Python and JavaScript.
 - 💞️ I’m looking to collaborate on any projects where i can learn new things!
 - 📫 How to reach me; Srogan88@gmail.com - put "GitHubCollab" in the subject line so i know to open it.
