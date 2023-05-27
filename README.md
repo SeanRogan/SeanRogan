@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @SeanRogan
-- 👀 I’m interested in web scraping, data mining and analysis, creating REST APIs and back end development, especially with Java.
-- 🌱 I’m currently learning ...Java, Springboot, SQL/MySQL/PostgreSQL, Python and JavaScript.
-- 💞️ I’m looking to collaborate on any projects where i can learn new things!
-- 📫 How to reach me; Srogan88@gmail.com - put "GitHubCollab" in the subject line so i know to open it.
+# 👋 Hi, I’m @SeanRogan
+👀 I’m interested in data scraping/mining, AI and ML, and full stack web development.
+
+## 🔧 Tools I Use
+
+## 💻 Languages
+
+-Java
+
+-Python
+
+-SQL
+
+-Javascript/Typescript
+
+## ⚙️ Frameworks
+
+-Spring
+
+-ReactJs
+
+-NextJs
+
+I’m looking to collaborate on any projects where i can learn new things
+
 
 <!---
 SeanRogan/SeanRogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
