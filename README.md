@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @SeanRogan
-👀 I’m interested in data scraping/mining, AI and ML, and full stack web development.
+👀 I’m interested in data scraping/mining and full stack web development.
 
 ## 🔧 Tools I Use
 
