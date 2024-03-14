@@ -3,8 +3,6 @@
 
 ## 🔧 Tools I Use
 
-## 💻 Languages
-
 -Java
 
 -Python
@@ -13,13 +11,8 @@
 
 -Javascript/Typescript
 
-## ⚙️ Frameworks
-
 -Spring
 
--ReactJs
-
--NextJs
 
 I’m looking to collaborate on any projects where i can learn new things
 
