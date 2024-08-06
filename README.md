@@ -1,23 +1,23 @@
 # 👋 Hi, I’m @SeanRogan
-👀 I’m interested in data scraping/mining and full stack web development.
-
-## 🔧 Tools I Use
+👨🏻‍💻 Backend Software Engineer @cStructure
+## 🔧 Tools I tend to use
+-Python
 
 -Java
 
--Python
-
--SQL
-
--Javascript/Typescript
+-Flask
 
 -Spring
 
+-Docker
 
-I’m looking to collaborate on any projects where i can learn new things
+-PostgreSQL
+
+-Javascript/Typescript
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanRogan&layout=compact&theme=radical)
-![Jennifer's github stats](https://github-readme-stats.vercel.app/api?username=SeanRogan&theme=jolly)
+![My's github stats](https://github-readme-stats.vercel.app/api?username=SeanRogan&theme=jolly)
 
 <!---
 SeanRogan/SeanRogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
