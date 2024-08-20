@@ -3,9 +3,9 @@
 
 
 ## 🔧 Tools I tend to use
--Python
-
 -Java
+
+-Python
 
 -Flask
 
