@@ -7,7 +7,7 @@
 
 -Python
 
--Flask
+-FastAPI
 
 -Spring
 
