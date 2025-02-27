@@ -15,11 +15,3 @@ Passionate about building scalable backend solutions that power amazing user exp
 ☁️ Cloud:          AWS | OCI
 📊 Testing:        JUnit | PyTest | Mockito
 ```
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss tech, potential projects, or just chat about software engineering
-
----
-
-⭐️ From [SeanRogan](https://github.com/SeanRogan)
