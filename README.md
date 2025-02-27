@@ -28,8 +28,6 @@ Passionate about building scalable backend solutions that power amazing user exp
 
 - Dagster
 - Oracle Cloud
-- System Design Patterns
-- Distributed Systems Architecture
 
 ## 📫 Let's Connect!
 
